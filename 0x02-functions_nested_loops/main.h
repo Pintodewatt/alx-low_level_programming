@@ -1,6 +1,8 @@
 #ifndef main_h
 #define main_h
 
+
+void print_times_table(int n);
 int _putchar(char c);
 int main(void);
 void print_alphabet(void);

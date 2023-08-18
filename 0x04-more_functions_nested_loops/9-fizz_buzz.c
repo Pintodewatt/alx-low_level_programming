@@ -25,3 +25,10 @@ printf("Buzz ");
 else
 printf("Buzz");
 }
+
+else
+printf("%d ", num);
+
+printf("\n");
+return (0);
+}

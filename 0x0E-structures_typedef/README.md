@@ -1,2 +1,1 @@
-0x0E. C - Structures, typedef
-C
+0x0E. C - Structures, typedef solo C
